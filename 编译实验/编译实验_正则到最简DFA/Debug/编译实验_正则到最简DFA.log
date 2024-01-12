@@ -1,0 +1,11 @@
+﻿  machine.cpp
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\re2nfa.h(60,20): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\re2nfa.h(366,1): warning C4005: “CUR”: 宏重定义
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\re2nfa.h(198): message : 参见“CUR”的前一个定义
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(67,1): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(67,23): warning C4309: “=”: 截断常量值
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(68,1): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(68,23): warning C4309: “=”: 截断常量值
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(69,1): warning C4305: “=”: 从“int”到“char”截断
+C:\Users\32994\source\repos\编译实验_正则到最简DFA\编译实验_正则到最简DFA\自动机.h(69,23): warning C4309: “=”: 截断常量值
+  编译实验_正则到最简DFA.vcxproj -> C:\Users\32994\source\repos\编译实验_正则到最简DFA\Debug\编译实验_正则到最简DFA.exe

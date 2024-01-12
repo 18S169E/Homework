@@ -1,0 +1,14 @@
+{ 
+/*This a test program.*/ 
+int abc;
+int A; 
+int a2; 
+read n;
+n = 012345;
+for (i=1;i<=n; i= i+1) 
+{  
+abc=abc+i; 
+} 
+if(i!=n) n = n+i; 
+write abc; 
+}
